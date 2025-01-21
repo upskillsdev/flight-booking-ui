@@ -1,4 +1,4 @@
-import { Button, cn, Spacer } from '@nextui-org/react';
+import { Button, cn, Spacer } from "@heroui/react";
 import { Subtle } from '../typography';
 import { motion, MotionValue } from 'framer-motion';
 import { ChevronLeft, Share2 } from 'lucide-react';

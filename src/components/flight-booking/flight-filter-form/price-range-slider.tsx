@@ -1,4 +1,4 @@
-import { SliderProps } from '@nextui-org/react';
+import { SliderProps } from "@heroui/react";
 import { SliderField } from '../form-fields/';
 import { useFormContext } from 'react-hook-form';
 

@@ -7,7 +7,7 @@ import {
   DropdownTrigger,
   Selection,
   SharedSelection,
-} from '@nextui-org/react';
+} from "@heroui/react";
 import { ArrowDownNarrowWide } from 'lucide-react';
 
 import { SORT_OPTIONS } from '../constants';

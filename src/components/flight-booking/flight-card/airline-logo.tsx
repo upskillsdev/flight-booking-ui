@@ -1,4 +1,4 @@
-import { Avatar, AvatarProps, Skeleton } from '@nextui-org/react';
+import { Avatar, AvatarProps, Skeleton } from "@heroui/react";
 
 export const AirlineLogo = (props: AvatarProps) => {
   return (

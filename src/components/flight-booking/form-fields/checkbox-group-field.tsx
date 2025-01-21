@@ -7,7 +7,7 @@ import {
   CheckboxGroup,
   CheckboxGroupProps,
   CheckboxProps,
-} from '@nextui-org/react';
+} from "@heroui/react";
 import {
   Controller,
   ControllerRenderProps,

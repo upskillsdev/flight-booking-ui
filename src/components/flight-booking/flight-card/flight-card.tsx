@@ -4,7 +4,7 @@ import {
   CardFooter,
   CardHeader,
   Divider,
-} from '@nextui-org/react';
+} from "@heroui/react";
 
 import { Flight } from '../types';
 import { FlightBenefits } from './flight-benefits';

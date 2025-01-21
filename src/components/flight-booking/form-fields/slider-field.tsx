@@ -1,6 +1,6 @@
 'use client';
 
-import { Slider, SliderProps } from '@nextui-org/react';
+import { Slider, SliderProps } from "@heroui/react";
 import { Controller, FieldError, FieldValues } from 'react-hook-form';
 
 import { ControlledFormFieldProps } from './types';
